@@ -1,0 +1,37 @@
+body{
+background-color: hsl(0, 3%, 47%);
+}
+
+
+form{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: hsl(0, 17%, 95%);
+max-width: 350px;
+padding: 30px;
+margin: auto;
+border-radius: 5px;
+box-shadow: 5px 5px 20px rgb(0, 0, 0);
+}
+
+h1{
+color: hsl(120, 27%, 59%);
+}
+
+#mySubmit{
+    background-color: hsl(0, 81%, 61%);
+    color: hsl(208, 100%, 97%);
+    padding: 9px;
+    border-radius: 0.5em;
+   
+}
+
+#mySubmit:hover{
+    background-color: hsl(0, 88%, 71%);  
+    color: hsl(0, 0%, 100%);
+}
+
+
+#results{
+    font-size: 2em;
+}
